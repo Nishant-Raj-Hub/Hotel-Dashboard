@@ -43,7 +43,7 @@ export default function ReservationDashboard() {
               <path d="M2 8h20" />
             </svg>
           </div>
-          <h1 className="text-xl font-semibold">Reservations For SWYFTIN <span className="">(MADE BY: nishantraj2109@gmail.com)</span></h1>
+          <h1 className="text-xl font-semibold">Reservations <span className="">(MADE BY: nishantraj2109@gmail.com)</span></h1>
         </div>
         <div className="flex items-center gap-2">
           <Button variant="outline" className="gap-1">
