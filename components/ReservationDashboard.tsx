@@ -25,7 +25,7 @@ export default function ReservationDashboard() {
 
   return (
     <div className="flex flex-col w-full min-h-screen">
-      <header className="sticky top-0 z-10 flex items-center justify-between h-16 px-4 border-b bg-background">
+      <header className="sticky top-0 z-10 flex items-center justify-between h-16 px-3 border-b bg-background">
         <div className="flex items-center gap-2">
           <div className="p-2 border rounded">
             <svg
