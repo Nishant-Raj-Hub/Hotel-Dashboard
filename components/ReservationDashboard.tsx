@@ -114,7 +114,7 @@ export default function ReservationDashboard() {
             </Button>
             <Button variant="outline" className="gap-1">
               <Calendar className="w-4 h-4 mr-1" />
-              Pick date range
+              Pick date-range
             </Button>
           </div>
         </div>
